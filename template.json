@@ -1,0 +1,7 @@
+{
+  "name": "wails-template-nextjs-javascript",
+  "shortname": "wails-nextjs",
+  "author": "YoruAkio",
+  "description": "Wails template using Next.js with JavaScript, Src folder, Pages router, TailwindCSS, and ESLint",
+  "helpurl": "https://github.com/yoruakio/wails-template-nextjs-javascript"
+}
